@@ -1,0 +1,2 @@
+INSERT INTO USER (ID, USERNAME, PASSWORD, FIRST_NAME, LAST_NAME, CHANNEL) VALUES (1, 'appuser', '$2a$08$UkVvwpULis18S19S5pZFn.YHPZt3oaqHZnDwqbCW9pft6uFtkXKDC', 'appuser', 'appuser', 'app');
+INSERT INTO USER (ID, USERNAME, PASSWORD, FIRST_NAME, LAST_NAME, CHANNEL) VALUES (2, 'webuser', '$2a$08$UkVvwpULis18S19S5pZFn.YHPZt3oaqHZnDwqbCW9pft6uFtkXKDC', 'webuser', 'webuser', 'web');

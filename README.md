@@ -1,4 +1,4 @@
-# Spring-Boot Test Application
+# Spring-Boot CRM Application
 
 ## About
 This is a simple spring-boot test application. 
